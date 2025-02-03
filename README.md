@@ -8,7 +8,7 @@ Files
 
 - test_module.py: Contains unit tests for the calculator functions.
 
-Functions
+# Functions
 `mean(matrix, axis)`
 Calculates the mean of the given matrix along the specified axis.
 
